@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meganriley
 - 👀 I’m interested in Python, JavaScript, backend development, fintech, Django, and React
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I’m currently learning Python, JavaScript, & React
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me 
 
